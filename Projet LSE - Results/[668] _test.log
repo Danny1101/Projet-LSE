@@ -1,0 +1,798 @@
+===================== Iteration 46 - Syscall = 0x197 =====================
+[024 615 488 439] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 000ms 608us 180ns
+	Kernel mode execution time 000s 000ms 521us 297ns
+	Total execution time 000s 001ms 129us 477ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 346562
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171309s 048ms 372us 880ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 009us 323ns
+[024 615 497 762] : Monitoring loop ended !
+
+===================== Iteration 45 - Syscall = 0x197 =====================
+[024 113 587 922] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 000ms 433us 013ns
+	Kernel mode execution time 000s 000ms 371us 153ns
+	Total execution time 000s 000ms 804us 166ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 319896
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171308s 546ms 471us 472ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 007us 917ns
+[024 113 595 839] : Monitoring loop ended !
+
+===================== Iteration 44 - Syscall = 0x197 =====================
+[023 611 587 770] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 000ms 650us 473ns
+	Kernel mode execution time 000s 000ms 557us 548ns
+	Total execution time 000s 001ms 208us 021ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 0
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171308s 044ms 469us 387ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 008us 490ns
+[023 611 596 260] : Monitoring loop ended !
+
+===================== Iteration 43 - Syscall = 0x197 =====================
+[023 109 885 117] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 000ms 410us 968ns
+	Kernel mode execution time 000s 000ms 352us 260ns
+	Total execution time 000s 000ms 763us 228ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 319531
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171307s 542ms 766us 781ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 009us 427ns
+[023 109 894 544] : Monitoring loop ended !
+
+===================== Iteration 42 - Syscall = 0x197 =====================
+[022 608 402 723] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 000ms 279us 554ns
+	Kernel mode execution time 000s 000ms 449us 298ns
+	Total execution time 000s 000ms 728us 852ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 12813
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171307s 041ms 277us 978ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 009us 739ns
+[022 608 412 462] : Monitoring loop ended !
+
+===================== Iteration 41 - Syscall = 0x197 =====================
+[022 107 120 901] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 000ms 000us 000ns
+	Kernel mode execution time 000s 000ms 818us 229ns
+	Total execution time 000s 000ms 818us 229ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 405313
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171306s 539ms 995us 112ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 008us 750ns
+[022 107 129 651] : Monitoring loop ended !
+
+===================== Iteration 40 - Syscall = 0x197 =====================
+[020 085 243 890] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 000ms 000us 000ns
+	Kernel mode execution time 000s 001ms 728us 647ns
+	Total execution time 000s 001ms 728us 647ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 192239
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171304s 518ms 063us 074ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 013us 594ns
+[020 085 257 484] : Monitoring loop ended !
+
+===================== Iteration 39 - Syscall = 0x197 =====================
+[019 582 552 387] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 000ms 000us 000ns
+	Kernel mode execution time 000s 001ms 089us 585ns
+	Total execution time 000s 001ms 089us 585ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 63802
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171304s 015ms 414us 531ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 007us 812ns
+[019 582 560 199] : Monitoring loop ended !
+
+===================== Iteration 38 - Syscall = 0x197 =====================
+[019 080 974 733] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 000ms 472us 044ns
+	Kernel mode execution time 000s 000ms 337us 174ns
+	Total execution time 000s 000ms 809us 218ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 0
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171303s 513ms 834us 477ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 008us 333ns
+[019 080 983 066] : Monitoring loop ended !
+
+===================== Iteration 37 - Syscall = 0x197 =====================
+[018 579 459 839] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 000ms 720us 385ns
+	Kernel mode execution time 000s 000ms 514us 560ns
+	Total execution time 000s 001ms 234us 945ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 0
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171303s 012ms 319us 892ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 009us 271ns
+[018 579 469 110] : Monitoring loop ended !
+
+===================== Iteration 36 - Syscall = 0x197 =====================
+[018 077 792 393] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 000ms 432us 760ns
+	Kernel mode execution time 000s 000ms 309us 115ns
+	Total execution time 000s 000ms 741us 875ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 224843
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171302s 510ms 647us 183ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 008us 073ns
+[018 077 800 466] : Monitoring loop ended !
+
+===================== Iteration 35 - Syscall = 0x197 =====================
+[017 576 202 864] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 000ms 208us 834ns
+	Kernel mode execution time 000s 000ms 642us 626ns
+	Total execution time 000s 000ms 851us 460ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 0
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171302s 009ms 060us 462ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 008us 646ns
+[017 576 211 510] : Monitoring loop ended !
+
+===================== Iteration 34 - Syscall = 0x197 =====================
+[017 074 637 294] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 000ms 000us 000ns
+	Kernel mode execution time 000s 000ms 791us 663ns
+	Total execution time 000s 000ms 791us 663ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 0
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171301s 507ms 491us 555ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 008us 021ns
+[017 074 645 315] : Monitoring loop ended !
+
+===================== Iteration 33 - Syscall = 0x197 =====================
+[016 573 429 794] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 001ms 014us 847ns
+	Kernel mode execution time 000s 000ms 000us 000ns
+	Total execution time 000s 001ms 014us 847ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 561666
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171301s 006ms 281us 032ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 008us 073ns
+[016 573 437 867] : Monitoring loop ended !
+
+===================== Iteration 32 - Syscall = 0x197 =====================
+[016 071 159 331] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 001ms 198us 695ns
+	Kernel mode execution time 000s 000ms 000us 000ns
+	Total execution time 000s 001ms 198us 695ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 386510
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171300s 504ms 002us 906ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 009us 791ns
+[016 071 169 122] : Monitoring loop ended !
+
+===================== Iteration 31 - Syscall = 0x197 =====================
+[015 569 137 876] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 000ms 999us 842ns
+	Kernel mode execution time 000s 000ms 000us 000ns
+	Total execution time 000s 000ms 999us 842ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 642656
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171300s 001ms 986us 915ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 009us 115ns
+[015 569 146 991] : Monitoring loop ended !
+
+===================== Iteration 30 - Syscall = 0x197 =====================
+[015 067 076 474] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 000ms 888us 593ns
+	Kernel mode execution time 000s 000ms 000us 000ns
+	Total execution time 000s 000ms 888us 593ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 457657
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171299s 499ms 920us 923ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 008us 698ns
+[015 067 085 172] : Monitoring loop ended !
+
+===================== Iteration 29 - Syscall = 0x197 =====================
+[014 565 236 061] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 000ms 000us 000ns
+	Kernel mode execution time 000s 001ms 597us 605ns
+	Total execution time 000s 001ms 597us 605ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 0
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171298s 998ms 037us 797ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 017us 187ns
+[014 565 253 248] : Monitoring loop ended !
+
+===================== Iteration 28 - Syscall = 0x197 =====================
+[014 062 823 931] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 000ms 000us 000ns
+	Kernel mode execution time 000s 001ms 046us 200ns
+	Total execution time 000s 001ms 046us 200ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 64375
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171298s 495ms 664us 931ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 008us 021ns
+[014 062 831 952] : Monitoring loop ended !
+
+===================== Iteration 27 - Syscall = 0x197 =====================
+[013 561 305 131] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 001ms 241us 147ns
+	Kernel mode execution time 000s 000ms 000us 000ns
+	Total execution time 000s 001ms 241us 147ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 419947
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171297s 994ms 136us 700ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 010us 468ns
+[013 561 315 599] : Monitoring loop ended !
+
+===================== Iteration 26 - Syscall = 0x197 =====================
+[013 059 249 406] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 001ms 090us 157ns
+	Kernel mode execution time 000s 000ms 000us 000ns
+	Total execution time 000s 001ms 090us 157ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 461824
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171297s 492ms 093us 261ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 009us 218ns
+[013 059 258 624] : Monitoring loop ended !
+
+===================== Iteration 25 - Syscall = 0x197 =====================
+[012 557 258 784] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 000ms 543us 363ns
+	Kernel mode execution time 000s 000ms 407us 521ns
+	Total execution time 000s 000ms 950us 884ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 84689
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171296s 990ms 019us 666ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 009us 584ns
+[012 557 268 368] : Monitoring loop ended !
+
+===================== Iteration 24 - Syscall = 0x197 =====================
+[012 055 206 705] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 001ms 294us 908ns
+	Kernel mode execution time 000s 000ms 971us 181ns
+	Total execution time 000s 002ms 266us 089ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 486928
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171296s 488ms 003us 154ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 070us 885ns
+[012 055 277 590] : Monitoring loop ended !
+
+===================== Iteration 23 - Syscall = 0x197 =====================
+[011 550 036 149] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 000ms 528us 304ns
+	Kernel mode execution time 000s 000ms 396us 229ns
+	Total execution time 000s 000ms 924us 533ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 533802
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171295s 982ms 865us 027ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 009us 062ns
+[011 550 045 211] : Monitoring loop ended !
+
+===================== Iteration 22 - Syscall = 0x197 =====================
+[011 048 155 215] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 000ms 127us 127ns
+	Kernel mode execution time 000s 000ms 666us 988ns
+	Total execution time 000s 000ms 794us 115ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 0
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171295s 480ms 985us 807ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 009us 479ns
+[011 048 164 694] : Monitoring loop ended !
+
+===================== Iteration 21 - Syscall = 0x197 =====================
+[010 546 719 018] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 000ms 000us 000ns
+	Kernel mode execution time 000s 000ms 984us 064ns
+	Total execution time 000s 000ms 984us 064ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 0
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171294s 979ms 547us 264ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 008us 438ns
+[010 546 727 456] : Monitoring loop ended !
+
+===================== Iteration 20 - Syscall = 0x197 =====================
+[010 045 156 833] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 000ms 000us 000ns
+	Kernel mode execution time 000s 000ms 655us 734ns
+	Total execution time 000s 000ms 655us 734ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 349011
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171294s 477ms 981us 221ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 008us 125ns
+[010 045 164 958] : Monitoring loop ended !
+
+===================== Iteration 19 - Syscall = 0x197 =====================
+[009 543 571 210] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 000ms 000us 000ns
+	Kernel mode execution time 000s 000ms 829us 272ns
+	Total execution time 000s 000ms 829us 272ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 0
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171293s 976ms 289us 552ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 009us 167ns
+[009 543 580 377] : Monitoring loop ended !
+
+===================== Iteration 18 - Syscall = 0x197 =====================
+[009 041 717 880] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 002ms 439us 271ns
+	Kernel mode execution time 000s 000ms 000us 000ns
+	Total execution time 000s 002ms 439us 271ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 0
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171293s 474ms 492us 676ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 013us 646ns
+[009 041 731 526] : Monitoring loop ended !
+
+===================== Iteration 17 - Syscall = 0x197 =====================
+[008 538 597 732] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 001ms 147us 656ns
+	Kernel mode execution time 000s 000ms 000us 000ns
+	Total execution time 000s 001ms 147us 656ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 169375
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171292s 971ms 417us 362ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 010us 312ns
+[008 538 608 044] : Monitoring loop ended !
+
+===================== Iteration 16 - Syscall = 0x197 =====================
+[008 036 868 412] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 000ms 705us 420ns
+	Kernel mode execution time 000s 000ms 000us 000ns
+	Total execution time 000s 000ms 705us 420ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 0
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171292s 469ms 685us 069ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 008us 072ns
+[008 036 876 484] : Monitoring loop ended !
+
+===================== Iteration 15 - Syscall = 0x197 =====================
+[007 535 774 922] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 000ms 941us 511ns
+	Kernel mode execution time 000s 000ms 000us 000ns
+	Total execution time 000s 000ms 941us 511ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 0
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171291s 968ms 589us 182ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 010us 000ns
+[007 535 784 922] : Monitoring loop ended !
+
+===================== Iteration 14 - Syscall = 0x197 =====================
+[007 033 744 405] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 000ms 753us 073ns
+	Kernel mode execution time 000s 000ms 000us 000ns
+	Total execution time 000s 000ms 753us 073ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 615625
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171291s 466ms 555us 691ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 008us 646ns
+[007 033 753 051] : Monitoring loop ended !
+
+===================== Iteration 13 - Syscall = 0x197 =====================
+[006 531 621 909] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 002ms 108us 436ns
+	Kernel mode execution time 000s 000ms 000us 000ns
+	Total execution time 000s 002ms 108us 436ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 334323
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171290s 964ms 385us 429ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 013us 021ns
+[006 531 634 930] : Monitoring loop ended !
+
+===================== Iteration 12 - Syscall = 0x197 =====================
+[006 028 449 782] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 000ms 779us 898ns
+	Kernel mode execution time 000s 000ms 000us 000ns
+	Total execution time 000s 000ms 779us 898ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 458489
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171290s 461ms 257us 406ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 007us 552ns
+[006 028 457 334] : Monitoring loop ended !
+
+===================== Iteration 11 - Syscall = 0x197 =====================
+[005 526 497 025] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 000ms 771us 618ns
+	Kernel mode execution time 000s 000ms 000us 000ns
+	Total execution time 000s 000ms 771us 618ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 394687
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171289s 959ms 303us 863ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 008us 906ns
+[005 526 505 931] : Monitoring loop ended !
+
+===================== Iteration 10 - Syscall = 0x197 =====================
+[005 024 914 111] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 000ms 861us 926ns
+	Kernel mode execution time 000s 000ms 000us 000ns
+	Total execution time 000s 000ms 861us 926ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 343594
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171289s 457ms 719us 539ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 008us 541ns
+[005 024 922 652] : Monitoring loop ended !
+
+===================== Iteration 9 - Syscall = 0x197 =====================
+[004 523 169 842] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 001ms 117us 136ns
+	Kernel mode execution time 000s 000ms 000us 000ns
+	Total execution time 000s 001ms 117us 136ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 81355
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171288s 955ms 970us 318ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 009us 115ns
+[004 523 178 957] : Monitoring loop ended !
+
+===================== Iteration 8 - Syscall = 0x197 =====================
+[004 021 414 689] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 001ms 184us 219ns
+	Kernel mode execution time 000s 000ms 000us 000ns
+	Total execution time 000s 001ms 184us 219ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 143125
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171288s 454ms 191us 046ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 011us 614ns
+[004 021 426 303] : Monitoring loop ended !
+
+===================== Iteration 7 - Syscall = 0x197 =====================
+[003 519 175 423] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 001ms 103us 803ns
+	Kernel mode execution time 000s 000ms 000us 000ns
+	Total execution time 000s 001ms 103us 803ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 341979
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171287s 951ms 976us 513ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 008us 281ns
+[003 519 183 704] : Monitoring loop ended !
+
+===================== Iteration 6 - Syscall = 0x197 =====================
+[003 017 281 155] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 001ms 081us 148ns
+	Kernel mode execution time 000s 000ms 000us 000ns
+	Total execution time 000s 001ms 081us 148ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 486875
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171287s 450ms 040us 418ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 009us 531ns
+[003 017 290 686] : Monitoring loop ended !
+
+===================== Iteration 5 - Syscall = 0x197 =====================
+[002 515 170 326] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 001ms 166us 873ns
+	Kernel mode execution time 000s 000ms 000us 000ns
+	Total execution time 000s 001ms 166us 873ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 322188
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171286s 947ms 963us 646ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 009us 531ns
+[002 515 179 857] : Monitoring loop ended !
+
+===================== Iteration 4 - Syscall = 0x197 =====================
+[002 013 253 246] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 000ms 000us 000ns
+	Kernel mode execution time 000s 001ms 039us 323ns
+	Total execution time 000s 001ms 039us 323ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 0
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171286s 446ms 047us 602ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 009us 791ns
+[002 013 263 037] : Monitoring loop ended !
+
+===================== Iteration 3 - Syscall = 0x197 =====================
+[001 511 675 070] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 000ms 000us 000ns
+	Kernel mode execution time 000s 000ms 668us 019ns
+	Total execution time 000s 000ms 668us 019ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 3542
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171285s 944ms 465us 257ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 009us 375ns
+[001 511 684 445] : Monitoring loop ended !
+
+===================== Iteration 2 - Syscall = 0x197 =====================
+[001 010 578 820] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 000ms 000us 000ns
+	Kernel mode execution time 000s 002ms 686us 718ns
+	Total execution time 000s 002ms 686us 718ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 97656
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171285s 443ms 318us 120ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 013us 386ns
+[001 010 592 206] : Monitoring loop ended !
+
+===================== Iteration 1 - Syscall = 0x197 =====================
+[000 506 619 561] : Monitoring loop started !
+Execution times :
+	User mode execution time 000s 000ms 000us 000ns
+	Kernel mode execution time 000s 000ms 931us 979ns
+	Total execution time 000s 000ms 931us 979ns
+Context switch :
+	Voluntary context switches : 17
+	Involuntary context switches : 0
+Scheduling informations :
+	Number of times we have run on this CPU : 618385
+	Time spent waiting on runqueue : 17
+	Last run on a CPU : 171284s 939ms 410us 514ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 009us 219ns
+[000 506 628 780] : Monitoring loop ended !
+
+[1610315128 986 919 696] : Monitoring started, fixing this time as offset !
+Execution times :
+	User mode execution time 000s 000ms 000us 000ns
+	Kernel mode execution time 000s 003ms 754us 738ns
+	Total execution time 000s 003ms 754us 738ns
+Context switch :
+	Voluntary context switches : 66
+	Involuntary context switches : 5
+Scheduling informations :
+	Number of times we have run on this CPU : 555626
+	Time spent waiting on runqueue : 71
+	Last run on a CPU : 171284s 437ms 342us 492ns
+	Last queued to run : 0
+Monitoring duration : 0s 000ms 021us 563ns
+[000 004 577 846] : Monitoring loop ended !
+
