@@ -1,1 +1,0 @@
-cmd_/home/ubuntu/Documents/projet_lse_2020/monitoring_module/modules.order := {   echo /home/ubuntu/Documents/projet_lse_2020/monitoring_module/rt_monitoring.ko; :; } | awk '!x[$$0]++' - > /home/ubuntu/Documents/projet_lse_2020/monitoring_module/modules.order

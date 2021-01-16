@@ -1,1 +1,0 @@
-cmd_/home/ubuntu/Documents/projet_lse_2020/monitoring_module/Module.symvers := sed 's/ko$$/o/' /home/ubuntu/Documents/projet_lse_2020/monitoring_module/modules.order | scripts/mod/modpost  -a   -o /home/ubuntu/Documents/projet_lse_2020/monitoring_module/Module.symvers -e -i Module.symvers   -T -
