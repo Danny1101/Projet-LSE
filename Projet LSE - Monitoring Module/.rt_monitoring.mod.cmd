@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/Documents/projet_lse_2020/monitoring_module/rt_monitoring.mod := { echo  /home/ubuntu/Documents/projet_lse_2020/monitoring_module/rt_monitoring.o; echo; } > /home/ubuntu/Documents/projet_lse_2020/monitoring_module/rt_monitoring.mod
